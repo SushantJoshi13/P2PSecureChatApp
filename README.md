@@ -170,8 +170,5 @@ pip install -r requirements.txt
 ```
 
 ## Authors
-- Kshitij Sonje (CS24MTECH11025)
 - Sushant Joshi (CS24MTECH14017)
-
-## License
-This project is for educational purposes. See individual task directories for specific implementation details.
+- Kshitij Sonje (CS24MTECH11025)
